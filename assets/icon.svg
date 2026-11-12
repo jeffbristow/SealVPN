@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b5cff"/><stop offset="1" stop-color="#3a1fa8"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#d9d1ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="url(#bg)"/>
+  <path d="M128 38 L200 66 V122 C200 170 170 204 128 220 C86 204 56 170 56 122 V66 Z" fill="url(#sh)"/>
+  <!-- seal: wax-seal rosette with a keyhole -->
+  <g transform="translate(128 128)">
+    <path d="M0-46 l11 10 15-3 4 14 14 6-6 14 6 14-14 6-4 14-15-3-11 10-11-10-15 3-4-14-14-6 6-14-6-14 14-6 4-14 15 3z" fill="#5a3be0"/>
+    <circle r="12" cy="-8" fill="#fff"/>
+    <path d="M-7 -2 h14 l5 30 h-24z" fill="#fff"/>
+  </g>
+</svg>

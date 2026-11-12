@@ -1,0 +1,10 @@
+# Build output
+dist/
+__pycache__/
+*.pyc
+# Downloaded Ubuntu/Proton packages: tools/fetch_deps.py fetches and GPG-checks them.
+# Only the list of bundled versions is kept in git.
+vendor/*
+!vendor/lib/
+vendor/lib/*
+!vendor/lib/MANIFEST.json

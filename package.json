@@ -1,0 +1,7 @@
+{
+  "name": "sealvpn-ubuntu-touch",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Seal VPN for Proton — Ubuntu Touch click (Proton VPN official Linux client inside)",
+  "scripts": { "build": "node build.js" }
+}

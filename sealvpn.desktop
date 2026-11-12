@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Seal VPN for Proton
+Comment=Proton VPN with your Proton account: servers, kill switch, NetShield
+Exec=qmlscene %u qml/Main.qml
+Icon=assets/icon.svg
+Terminal=false
+Type=Application
+X-Lomiri-Touch=true
+X-Lomiri-Default-Department-ID=utilities
